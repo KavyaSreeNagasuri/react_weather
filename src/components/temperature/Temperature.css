@@ -1,0 +1,53 @@
+/* div{
+    display: inline;
+} */
+#c1{
+    margin: 30px;
+    display: block;    
+}
+.banner-left {
+    width: 40%;
+    height: inherit;
+    float: left;
+}
+img{
+    width:70px;
+}
+.column1 {
+    float: left;
+    width: 30%;
+    height: inherit;
+}
+
+#temp-disp {
+    font-size: 64px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.column2 {
+    float: left;
+    width: 70%;
+    font-stretch: 100%;
+    height: inherit;
+}
+
+.col2_1 {
+    float: left;
+    width: 42%;
+    height: inherit;
+    margin-top: -13px;
+    margin-left: 15px;
+}
+.col2_2 {
+    float: left;
+    width: 29%;
+    height: inherit;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    color: #212121;
+    font-size: 16px;
+    margin-top: 3px;
+    cursor: default;
+    margin-left: 20px;
+}
